@@ -8,7 +8,7 @@ class Dog
   end
 end
 
-lassie = Dpg.new 
+lassie = Dog.new 
 lassie.name = "Lassie"
 
 Lassie.name
